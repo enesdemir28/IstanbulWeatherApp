@@ -17,10 +17,14 @@ class MainActivity : ComponentActivity() {
         val txtViewCity: TextView = findViewById(R.id.tv_city)
         val txtViewWeather: TextView = findViewById(R.id.tv_temp)
         val txtViewDesc: TextView = findViewById(R.id.tv_description)
+        val txtViewWindSpeed: TextView = findViewById(R.id.tv_windspeed)
+        val txtViewHumidity: TextView = findViewById(R.id.tv_humidity)
+        val txtViewPressure: TextView = findViewById(R.id.tv_pressure)
+
 
         val weatherApiService = WeatherApiService()
 
-        weatherApiService.fetchWeatherData(txtViewWeather,txtViewCity,txtViewDesc)
+        weatherApiService.fetchWeatherData(txtViewWeather,txtViewCity,txtViewDesc, txtViewWindSpeed,txtViewHumidity,txtViewPressure)
 
 
     }
