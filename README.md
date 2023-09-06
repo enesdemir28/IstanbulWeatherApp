@@ -15,3 +15,7 @@ Images
 Splash Screen 
 
 ![Splash Screen](IstanbulWeatherAppSplash%201.png)
+
+Main Acitivity
+
+![Main Activity](IstanbulWeatherAppMain%201.png)
