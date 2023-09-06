@@ -12,4 +12,6 @@ Tech Stack
 
 Images
 
+Splash Screen 
+
 ![Splash Screen](IstanbulWeatherAppSplash%201.png)
