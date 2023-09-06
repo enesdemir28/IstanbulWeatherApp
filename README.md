@@ -19,3 +19,7 @@ Splash Screen
 Main Acitivity
 
 ![Main Activity](IstanbulWeatherAppMain%201.png)
+
+Description
+
+You can see the current weather data in Istanbul like temparuture, wind speed, humidity and pressure
