@@ -2,7 +2,7 @@
 
 This Android application is used to view current weather conditions in Istanbul.
 
-# Tech Stack
+## Tech Stack
 
 - Android Studio
 - Kotlin
@@ -14,7 +14,7 @@ This Android application is used to view current weather conditions in Istanbul.
 
 You can see the current weather data in Istanbul like temparuture, wind speed, humidity and pressure
 
-## Images
+# Images
 
 ## Splash Screen 
 
