@@ -20,7 +20,7 @@ You can see the current weather data in Istanbul like temparuture, wind speed, h
 
 ![Splash Screen](IstanbulWeatherAppSplash%201.png)
 
-## Main Acitivity
+## Main Activity
 
 ![Main Activity](IstanbulWeatherAppMain%201.png)
 
